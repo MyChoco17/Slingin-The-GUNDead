@@ -1,0 +1,42 @@
+What i want to do for my game:
+
+Setting:
+
+Wild west cowboy in a town full of undead
+
+
+
+
+Survival Shooter where the difficulty increases each wave, the game will be set all in one screen, with multiple openings for enemies to come by.
+
+player is limited to 4 hits, upon being killed, the time spent alive + the score is tracked on a leaderboard of 10 players
+
+enemies have a small chance of dropping health, but with the quantity of enemies, should be easy to regain health. Player will have invincibility frames for 3 seconds upon being hit
+
+5 Types of enemies
+Running - 100pts - 3 hits to kill
+Slow walking but tanky - 200pts - 10 hits to kill
+Flying - 300pts - 3 hits to kill
+Underground - 300pts - 5 hits to kill, 1.5 second delay from surfacing to hitting player
+Ranged - 150pts - 2 hits to kill, fires 1 time a second
+
+a highscore system that keeps track of 10 of the highest scores
+
+multiple powerups that can be stacked up to a limit of 2, and used with keys
+
+- nuke: kills in a 10x10 tile radius (game will be 100x100 tiles)
+- extra life: rare spawn, can't be used as a powerup, is used automatically upon death
+- shotgun: fires 5 bullets in a random spray pattern in the direction you are facing
+- minigun: rapidfire of bullets
+- shield: protects from any one type of hit taken
+- speed shoes: makes the player run much faster
+- freeze: enemies slow down extremely for 5 seconds
+
+
+
+
+
+movement using WASD, and the mouse to aim and shoot projectiles, players' main gun will be a pistol that shoots 3 bullets a second, maybe change this later.
+
+no story (yet) just one big level where waves of monsters come in
+
